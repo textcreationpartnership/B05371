@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edinburgh, the second day of February, one thousand six hundred and sixty four. Forasmuch as the lords of his Majesties Privy Council, taking to their consideration, the great advantage and profit will redound to the lieges of this Kingdom, by keeping of the time of Lent ...</title>
+            <author>Scotland. Privy Council</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05371</idno>
+            <idno type="STC">Wing S1499E</idno>
+            <idno type="STC">ESTC R183063</idno>
+            <idno type="EEBO-CITATION">52612262</idno>
+            <idno type="OCLC">ocm 52612262</idno>
+            <idno type="VID">179566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179566)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edinburgh, the second day of February, one thousand six hundred and sixty four. Forasmuch as the lords of his Majesties Privy Council, taking to their consideration, the great advantage and profit will redound to the lieges of this Kingdom, by keeping of the time of Lent ...</title>
+                  <author>Scotland. Privy Council</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the King's most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>[1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of imprint from Wing.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Text in black letter.</note>
+                  <note>Signed at end: Pet. Wedderburne, Cl. Sti. Concilii.</note>
+                  <note>Proclamation prohibiting the eating of flesh in Lent.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lent --  Scotland --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179566:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>EDINBURGH, <date>The ſecond day of <hi>February,</hi> one thouſand ſix hundred and ſixty four.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Lords of His <hi>Majeſties</hi> Privy Council, taking to their conſideration, the great advantage and profit will redound to the Lieges of this Kingdom, by keeping of the time of Lent and weekly Fiſh-dayes, <hi>viz.</hi> Wedneſday, Friday and Saturday, and diſcharging of all perſons to eat Fleſh, during that time, upon the ſaids dayes, or to kill or ſell in Mercats any ſorts of Fleſh which are uſually bought at other times, whereby the young Brood and Store might be preſerved, and the hazard of ſcarcity and dearth prevented; and that the Fiſhes, which, by the mercy of GOD, abound in the ſalt and freſh waters of this Kingdom, might be made uſe of, for the food and entertainment of the Lieges, and the incouragment of many poor families who live by fiſhing: the improvement whereof hath been much neglected theſe many years paſt, which hath been occaſioned by the univerſal allowance of eating of Fleſh and keeping of Mercats at all times, without diſtinction or re<g ref="char:EOLhyphen"/>ſtraint, contrary to many laudable Laws and Acts of Parliament, prohibiting the eating of Fleſh the time of Lent and upon the ſaids Fiſh-dayes. Did therefore, by their Act and Proclamation of the ſixth of <hi>February,</hi> one thouſand ſix hundred and ſixty two, as alſo by their other Act of the twelfth of <hi>February,</hi> one thouſand ſix hundred and ſixty three, ordain and command, that the time of Lent for theſe years and yearly thereafter, ſhould begin and be keeped as the ſame was keeped before the year of GOD, one thouſand ſix hundred and fourty; and that the ſaids weekly Fiſh-dayes ſhould be ſtrictly obſerved in all time there<g ref="char:EOLhyphen"/>after; and that no Subject, of whatſoever rank, quality or degree, except they have a ſpecial Licence under the hand of the Clerk of the Council, preſume to eat any Fleſh during the ſaid time of Lent, or upon the ſaids three weekly Fiſh-dayes; and that no Butchers, Cooks, Hoſtlers, kill, make ready or ſell any Fleſh, either publickly in Mercats, or privatly in their own houſes, during the ſaid time, or upon the ſaids dayes, under the penalties following, to be exacted with all rigour, <hi>viz.</hi> For the firſt fault ten pounds; for the ſecond fault twenty pounds; for the third fault fourty pounds; and ſo to be multiplied according to the oft contraveening of the ſaid Act, to be exacted and paid, the one half to the Kings <hi>Majeſty,</hi> and the other half to the delators: And for the ſurer exacting thereof, did give power and warrand to all Magiſtrates within Burghs, Sheriffs, Stewarts and Bailies, within their ſeveral jurisdictions, to enquire after the contraveeners, and to purſue them before the Lords of Privy Council, or ſuch others as ſhould be delegat and appointed for that effect. And ſeing the not keeping of Lent and Fiſh-dayes, conform to the ſaids Acts, hath been occaſioned by not exacting the penalties, contained in the ſaids two former Acts, from the contraveeners thereof, who, upon hopes of impunity, may ſtill continue to diſovey the ſaids Acts, to the great prejudice of the Kingdom; Therefore, the ſaids Lords of Council have renewed, and by theſe pre<g ref="char:EOLhyphen"/>ſents renews, the foreſaids Acts, and diſcharges all His <hi>Majeſties</hi> Lieges from preſuming or taking upon hand to contraveen the ſame in any time coming; with certification, if they failȝie, the pains and penalties therein contained ſhall be exacted with all rigour; and that they will crave an account of all Magiſtrates and other Miniſters of Juſtice, who are intruſted to procure obedience thereto, and give notice of the offen<g ref="char:EOLhyphen"/>ders in their reſpective bounds, as they will be anſwerable. And for this effect, ordains theſe preſents to be printed, and publiſhed at the Mercat-croſs of <hi>Edinburgh,</hi> and other places needfull, that none pretend ignorance.</p>
+            <closer>
+               <signed>
+                  <hi>Pet. Wedderburne,</hi> Cl. S<hi rend="sup">ti</hi> Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's moſt Excellent MAJESTY.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
